@@ -1,0 +1,79 @@
+{
+  "rows": 41188,
+  "cols": 21,
+  "explicit_na": 0,
+  "unknown_share": {
+    "job": 0.008012042342429833,
+    "marital": 0.0019423132951345051,
+    "education": 0.042026803923472855,
+    "default": 0.20872584247839177,
+    "housing": 0.0240361270272895,
+    "loan": 0.0240361270272895
+  },
+  "pdays_999": 0.9632174419733903,
+  "poutcome_nonexistent": 0.8634310964358551,
+  "full_dup": 12,
+  "profile_dup": 28182,
+  "conflict_groups": 237,
+  "age_min": 17,
+  "age_max": 98,
+  "campaign_max": 56,
+  "campaign_p99": 14.0,
+  "duration_max": 4918,
+  "duration_p99": 1271.1299999999974,
+  "duration_zero": 4,
+  "campaign_over_p99": 406,
+  "age_over_90": 10,
+  "c_pdays_prev0": 0,
+  "c_pout_none_prev": 0,
+  "c_prev_pdays999": 4110,
+  "c_dur0_yes": 0,
+  "euribor_unique_per_month_max": 22,
+  "near_const": {
+    "pdays": 0.9632174419733903
+  },
+  "default_yes": 3,
+  "conv_by_loan": {
+    "no": 0.1134020618556701,
+    "unknown": 0.10808080808080808,
+    "yes": 0.10931498079385403
+  },
+  "conv_by_housing": {
+    "no": 0.10879604768553323,
+    "unknown": 0.10808080808080808,
+    "yes": 0.11619391916944753
+  },
+  "periods": 26,
+  "first": "2008-05-01",
+  "last": "2010-11-01",
+  "by_year": {
+    "2008": {
+      "n": 27690,
+      "conv": 0.04835680751173709
+    },
+    "2009": {
+      "n": 11440,
+      "conv": 0.19475524475524475
+    },
+    "2010": {
+      "n": 2058,
+      "conv": 0.5213799805636541
+    }
+  },
+  "missing_months": [
+    "jan",
+    "feb"
+  ],
+  "min_month_n": 10,
+  "max_month_n": 7763,
+  "target_rate": 0.11265417111780131,
+  "target_na": 0,
+  "auc_duration": 0.8184458681875134,
+  "conv_by_duration_q": [
+    0.005,
+    0.032,
+    0.073,
+    0.125,
+    0.33
+  ]
+}

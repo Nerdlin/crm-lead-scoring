@@ -1,0 +1,17 @@
+{
+  "maven_rows": 8800,
+  "maven_closed": 6711,
+  "maven_win_rate": 0.6315005215318135,
+  "maven_auc": 0.5131185568201246,
+  "maven_agent_win_min": 0.5497835497835498,
+  "maven_agent_win_max": 0.7039473684210527,
+  "maven_product_mismatch": [
+    "GTXPro"
+  ],
+  "maven_sector_typo": true,
+  "maven_account_na": 1425,
+  "maven_period": [
+    "2016-10-20",
+    "2017-12-31"
+  ]
+}
